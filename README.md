@@ -2,8 +2,9 @@
 <h3 align="center">MERN Stack Developer | Computer Science Undergraduate</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=peeyushtiwari&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Clean+UI+Enthusiast;Open+Source+Contributor" />
 </p>
+
 
 ---
 
