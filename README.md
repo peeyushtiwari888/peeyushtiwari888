@@ -2,65 +2,66 @@
 <h3 align="center">MERN Stack Developer | Computer Science Undergraduate</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=peeyushtiwari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=peeyushtiwari&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🚀 Passionate **MERN Stack Developer** focused on building **practical web tools**, **clean user interfaces**, and **developer-centric products**.
+🚀 Passionate **MERN Stack Developer** with a strong focus on building  
+**scalable web applications**, **clean UI/UX**, and **developer-first products**.
 
-💡 I work extensively with **React.js**, **JavaScript (ES6+)**, and modern web technologies.  
-🤖 Currently exploring **AI integration**, **system design**, and contributing to **open-source projects**.
+💡 I enjoy working with **modern JavaScript**, crafting intuitive frontends with **React**,  
+and building reliable backends using **Node.js & Express**.
 
----
-
-### 🚀 What I Do
-
-- 💻 Build modern, responsive, and scalable web applications  
-- 🛠️ Create developer utilities and CLI tools  
-- 🧠 Solve problems using Data Structures & Algorithms  
-- 🌐 Develop production-ready real-world projects  
-- 🤖 Experiment with AI-powered web features  
+🤖 Currently exploring **AI-powered features**, **system design fundamentals**,  
+and actively improving problem-solving skills through **DSA**.
 
 ---
 
-### 🧠 Tech Stack
+## 🚀 What I Do
 
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite)
+- 💻 Build **modern, responsive, and scalable** web applications  
+- 🛠️ Develop **developer tools & utilities**  
+- 🧠 Practice **Data Structures & Algorithms**  
+- 🌐 Work on **real-world, production-oriented projects**  
+- 🤖 Experiment with **AI integration in web apps**
 
 ---
 
-#### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm)
+## 🧠 Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
+</p>
 
 ---
 
-### 📚 Currently Learning
+### ⚙️ Backend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,git,github,npm" />
+</p>
 
-- ⚡ Advanced React patterns & performance optimization  
-- 🏗️ System design fundamentals  
-- 🧩 Competitive programming & DSA  
-
----
-
-### 🤝 Let’s Connect
-
-- 💼 GitHub: **https://github.com/peeyushtiwari**
-- 🌱 Open to **collaborations, internships, and open-source projects**
+> ⚡ *These tools help me build fast, maintainable, and production-ready applications.*
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+## 📚 Currently Learning
+
+- ⚡ Advanced **React patterns & performance optimization**
+- 🏗️ **System Design** fundamentals
+- 🧩 **Competitive Programming & DSA**
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 **GitHub:** https://github.com/peeyushtiwari  
+- 🌱 Open to **internships, collaborations, and open-source contributions**
+
+---
+
+⭐ **If you find my projects useful, consider starring the repositories!**  
+💻 *Happy Coding & Keep Building 🚀*
